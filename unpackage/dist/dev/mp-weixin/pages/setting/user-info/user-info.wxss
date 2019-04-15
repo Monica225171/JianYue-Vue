@@ -1,0 +1,51 @@
+
+.green-btn {
+	background-color: #00b26a;
+}
+.list-avatar {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	height: 100px;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	/* border: 1px solid #8F8F94; */
+}
+.list-nick {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	height: 70px;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	/* border: 1px solid #8F8F94; */
+}
+.avatar {
+	border-radius: 50%;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	height: 80px;
+	width: 80px;
+}
+.item-hr{
+	height: 1px;
+    border-top: 1px solid #ddd;
+    text-align: center;
+}
+

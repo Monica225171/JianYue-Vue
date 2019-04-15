@@ -1,0 +1,1 @@
+<template name="e52cfd98"><view class="_view e52cfd98 content"><image class="_image e52cfd98 logo" src="../../static/logo.png"></image><view class="_view e52cfd98"><text class="_text e52cfd98 title">{{title}}</text></view></view></template>
